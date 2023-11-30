@@ -1,5 +1,6 @@
 package com.jnbutlerdevelopment.tutorialmod;
 
+import com.jnbutlerdevelopment.tutorialmod.block.ModBlocks;
 import com.jnbutlerdevelopment.tutorialmod.item.ModCreativeModeTabs;
 import com.jnbutlerdevelopment.tutorialmod.item.ModItems;
 import com.mojang.logging.LogUtils;
@@ -33,6 +34,7 @@ public class TutorialMod
         ModCreativeModeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
