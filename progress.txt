@@ -1,2 +1,2 @@
-Have completed Kaupenjoe's tutorials on Forge Modding Tutorial - Minecraft 1.20.x
-through #3 video Adding custom blocks as of 1/23/2024.
+01/23/2024 -Have completed Kaupenjoe's tutorials on Forge Modding Tutorial - Minecraft 1.20.x
+            through video #3 Adding custom blocks and #4 Adding Custom Recipes.
